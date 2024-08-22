@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/lgCns01/static/css/main.e277ea85.css",
-    "main.js": "/lgCns01/static/js/main.b2fdb30e.js",
+    "main.css": "/lgCns01/static/css/main.36eeb4ee.css",
+    "main.js": "/lgCns01/static/js/main.df7d0f99.js",
+    "static/media/scale.png": "/lgCns01/static/media/scale.6fa02d51b55c4f42783c.png",
     "static/media/contact.png": "/lgCns01/static/media/contact.3045ea9cb3117af170cf.png",
     "static/media/banner.png": "/lgCns01/static/media/banner.fb9a8d87d7b4feefc27c.png",
     "static/media/main_visual.png": "/lgCns01/static/media/main_visual.db720dc16bd3467e4374.png",
     "static/media/hanwha_img01.png": "/lgCns01/static/media/hanwha_img01.f53fca8e2781f3cac205.png",
     "static/media/koreanair_img01.png": "/lgCns01/static/media/koreanair_img01.be7d66e9666eeea8ae64.png",
-    "static/media/video.png": "/lgCns01/static/media/video.8627b36a19de6f88e1dd.png",
     "static/media/partner03.svg": "/lgCns01/static/media/partner03.a21b47e82fdc4d39a3266beffd85af09.svg",
     "static/media/logo_hanwha.svg": "/lgCns01/static/media/logo_hanwha.ffcc8b0a3f8b038d3326d698c294b99d.svg",
     "static/media/partner02.svg": "/lgCns01/static/media/partner02.f85f656111de1cca40197f4aa70eec05.svg",
@@ -24,11 +24,11 @@
     "index.html": "/lgCns01/index.html",
     "static/media/report_download.svg": "/lgCns01/static/media/report_download.143e7386579ab42a0fd821082eae8688.svg",
     "static/media/link_arrow.svg": "/lgCns01/static/media/link_arrow.6e6363033d9025b9241ea30b74681e75.svg",
-    "main.e277ea85.css.map": "/lgCns01/static/css/main.e277ea85.css.map",
-    "main.b2fdb30e.js.map": "/lgCns01/static/js/main.b2fdb30e.js.map"
+    "main.36eeb4ee.css.map": "/lgCns01/static/css/main.36eeb4ee.css.map",
+    "main.df7d0f99.js.map": "/lgCns01/static/js/main.df7d0f99.js.map"
   },
   "entrypoints": [
-    "static/css/main.e277ea85.css",
-    "static/js/main.b2fdb30e.js"
+    "static/css/main.36eeb4ee.css",
+    "static/js/main.df7d0f99.js"
   ]
 }
