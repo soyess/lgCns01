@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/lgCns01/static/css/main.818c330a.css",
-    "main.js": "/lgCns01/static/js/main.89858c93.js",
+    "main.css": "/lgCns01/static/css/main.c7cfaef8.css",
+    "main.js": "/lgCns01/static/js/main.0cfa52ca.js",
     "static/media/scale.png": "/lgCns01/static/media/scale.6fa02d51b55c4f42783c.png",
     "static/media/contact.png": "/lgCns01/static/media/contact.3045ea9cb3117af170cf.png",
     "static/media/banner.png": "/lgCns01/static/media/banner.fb9a8d87d7b4feefc27c.png",
     "static/media/main_visual.png": "/lgCns01/static/media/main_visual.db720dc16bd3467e4374.png",
+    "static/media/contact_banner.png": "/lgCns01/static/media/contact_banner.90aa5a8bdc9764874cf5.png",
     "static/media/hanwha_img01.png": "/lgCns01/static/media/hanwha_img01.f53fca8e2781f3cac205.png",
+    "static/media/background.png": "/lgCns01/static/media/background.c1ea43159b3b0ca8c282.png",
+    "static/media/map.png": "/lgCns01/static/media/map.a52b032554ddb6b3239b.png",
     "static/media/imageDetails03.png": "/lgCns01/static/media/imageDetails03.2df94d20d3c684147547.png",
     "static/media/koreanair_img01.png": "/lgCns01/static/media/koreanair_img01.be7d66e9666eeea8ae64.png",
     "static/media/imageDetails02.png": "/lgCns01/static/media/imageDetails02.9dff438d201838703494.png",
@@ -28,14 +31,15 @@
     "static/media/service_icon04.svg": "/lgCns01/static/media/service_icon04.d9ea0c81531f858de342e70d548968a3.svg",
     "static/media/service_img05.svg": "/lgCns01/static/media/service_img05.e78300b68523e721168f94a3a69ed9b2.svg",
     "index.html": "/lgCns01/index.html",
+    "static/media/mail.svg": "/lgCns01/static/media/mail.e83c04029016e81c3ec7eac0d3bb067a.svg",
     "static/media/report_download.svg": "/lgCns01/static/media/report_download.143e7386579ab42a0fd821082eae8688.svg",
     "static/media/link_arrow.svg": "/lgCns01/static/media/link_arrow.6e6363033d9025b9241ea30b74681e75.svg",
     "static/media/arrow_flow.svg": "/lgCns01/static/media/arrow_flow.878ffdbbee3753f09758b350dac36d09.svg",
-    "main.818c330a.css.map": "/lgCns01/static/css/main.818c330a.css.map",
-    "main.89858c93.js.map": "/lgCns01/static/js/main.89858c93.js.map"
+    "main.c7cfaef8.css.map": "/lgCns01/static/css/main.c7cfaef8.css.map",
+    "main.0cfa52ca.js.map": "/lgCns01/static/js/main.0cfa52ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.818c330a.css",
-    "static/js/main.89858c93.js"
+    "static/css/main.c7cfaef8.css",
+    "static/js/main.0cfa52ca.js"
   ]
 }
