@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/lgCns01/static/css/main.0690b5e1.css",
-    "main.js": "/lgCns01/static/js/main.ec046547.js",
+    "main.css": "/lgCns01/static/css/main.de3281c6.css",
+    "main.js": "/lgCns01/static/js/main.eb26162e.js",
     "static/media/scale.png": "/lgCns01/static/media/scale.6fa02d51b55c4f42783c.png",
-    "static/media/map.png": "/lgCns01/static/media/map.ace75b0c29136cc33953.png",
     "static/media/contact.png": "/lgCns01/static/media/contact.3045ea9cb3117af170cf.png",
+    "static/media/map.png": "/lgCns01/static/media/map.2c7aaade0d859737b043.png",
+    "static/media/contact_banner.png": "/lgCns01/static/media/contact_banner.8a220fbef0371f7310fe.png",
     "static/media/banner.png": "/lgCns01/static/media/banner.fb9a8d87d7b4feefc27c.png",
     "static/media/main_visual.png": "/lgCns01/static/media/main_visual.db720dc16bd3467e4374.png",
     "static/media/about_scale.png": "/lgCns01/static/media/about_scale.e97856d9146004bfe740.png",
-    "static/media/contact_banner.png": "/lgCns01/static/media/contact_banner.90aa5a8bdc9764874cf5.png",
     "static/media/hanwha_img01.png": "/lgCns01/static/media/hanwha_img01.f53fca8e2781f3cac205.png",
     "static/media/background.png": "/lgCns01/static/media/background.facaf8cdd72faaa73dff.png",
     "static/media/imageDetails03.png": "/lgCns01/static/media/imageDetails03.2df94d20d3c684147547.png",
     "static/media/koreanair_img01.png": "/lgCns01/static/media/koreanair_img01.be7d66e9666eeea8ae64.png",
     "static/media/imageDetails02.png": "/lgCns01/static/media/imageDetails02.9dff438d201838703494.png",
+    "static/media/contact_banner_mo.png": "/lgCns01/static/media/contact_banner_mo.8294355ad26babd8f41d.png",
     "static/media/about_visual.png": "/lgCns01/static/media/about_visual.357d06bff725ed36969d.png",
     "static/media/imageDetails01.png": "/lgCns01/static/media/imageDetails01.c6ae01cb1b1d2d3c0261.png",
     "static/media/partner03.svg": "/lgCns01/static/media/partner03.a21b47e82fdc4d39a3266beffd85af09.svg",
@@ -38,11 +39,11 @@
     "static/media/report_download.svg": "/lgCns01/static/media/report_download.143e7386579ab42a0fd821082eae8688.svg",
     "static/media/link_arrow.svg": "/lgCns01/static/media/link_arrow.6e6363033d9025b9241ea30b74681e75.svg",
     "static/media/arrow_flow.svg": "/lgCns01/static/media/arrow_flow.878ffdbbee3753f09758b350dac36d09.svg",
-    "main.0690b5e1.css.map": "/lgCns01/static/css/main.0690b5e1.css.map",
-    "main.ec046547.js.map": "/lgCns01/static/js/main.ec046547.js.map"
+    "main.de3281c6.css.map": "/lgCns01/static/css/main.de3281c6.css.map",
+    "main.eb26162e.js.map": "/lgCns01/static/js/main.eb26162e.js.map"
   },
   "entrypoints": [
-    "static/css/main.0690b5e1.css",
-    "static/js/main.ec046547.js"
+    "static/css/main.de3281c6.css",
+    "static/js/main.eb26162e.js"
   ]
 }
