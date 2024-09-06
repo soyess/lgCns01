@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lgCns01/static/css/main.610dfa01.css",
-    "main.js": "/lgCns01/static/js/main.fd4ee39b.js",
+    "main.css": "/lgCns01/static/css/main.07619d62.css",
+    "main.js": "/lgCns01/static/js/main.a9ff606e.js",
     "static/media/main_visual.png": "/lgCns01/static/media/main_visual.b84f94c232d1d5fefc45.png",
     "static/media/scale.png": "/lgCns01/static/media/scale.ce6bdb124c631ac3f8d6.png",
     "static/media/about_scale.png": "/lgCns01/static/media/about_scale.509c0bd41eff073fd698.png",
@@ -11,32 +11,28 @@
     "static/media/contact_banner.png": "/lgCns01/static/media/contact_banner.8a220fbef0371f7310fe.png",
     "static/media/about_scale_mo.png": "/lgCns01/static/media/about_scale_mo.3720c90eadd59d8213fa.png",
     "static/media/hanwha_img01.png": "/lgCns01/static/media/hanwha_img01.f53fca8e2781f3cac205.png",
+    "static/media/contact_banner_mo.png": "/lgCns01/static/media/contact_banner_mo.87fe88bd02c7174810c2.png",
+    "static/media/contact_mo.png": "/lgCns01/static/media/contact_mo.87fe88bd02c7174810c2.png",
     "static/media/background.png": "/lgCns01/static/media/background.facaf8cdd72faaa73dff.png",
     "static/media/imageDetails03.png": "/lgCns01/static/media/imageDetails03.2df94d20d3c684147547.png",
     "static/media/map_mo.png": "/lgCns01/static/media/map_mo.4bc2516b475d59d2d42d.png",
     "static/media/koreanair_img01.png": "/lgCns01/static/media/koreanair_img01.be7d66e9666eeea8ae64.png",
     "static/media/imageDetails02.png": "/lgCns01/static/media/imageDetails02.9dff438d201838703494.png",
-    "static/media/contact_banner_mo.png": "/lgCns01/static/media/contact_banner_mo.8294355ad26babd8f41d.png",
     "static/media/about_visual.png": "/lgCns01/static/media/about_visual.357d06bff725ed36969d.png",
-    "static/media/contact_mo.png": "/lgCns01/static/media/contact_mo.23f6992d0ea812d852d4.png",
     "static/media/imageDetails01.png": "/lgCns01/static/media/imageDetails01.c6ae01cb1b1d2d3c0261.png",
     "static/media/partner03.svg": "/lgCns01/static/media/partner03.a21b47e82fdc4d39a3266beffd85af09.svg",
     "static/media/logo_hanwha.svg": "/lgCns01/static/media/logo_hanwha.ffcc8b0a3f8b038d3326d698c294b99d.svg",
     "static/media/partner02.svg": "/lgCns01/static/media/partner02.f85f656111de1cca40197f4aa70eec05.svg",
     "static/media/imageDetails04.png": "/lgCns01/static/media/imageDetails04.fcef56b3208507460e58.png",
+    "static/media/logo_koreanair.png": "/lgCns01/static/media/logo_koreanair.d393b59c2b2f1203aff9.png",
     "static/media/logo_koreanair.svg": "/lgCns01/static/media/logo_koreanair.ca589b14c49ccc98a53e97039f54190e.svg",
     "static/media/award.png": "/lgCns01/static/media/award.8befc09411acaf94aa66.png",
     "static/media/partner01.svg": "/lgCns01/static/media/partner01.bc29f4d4e4af4520ab826ebd8056326d.svg",
-    "static/media/service_img06.svg": "/lgCns01/static/media/service_img06.ab29c7b54a912acec03e8de28d1d8cf3.svg",
-    "static/media/service_img02.svg": "/lgCns01/static/media/service_img02.c35595e540435c90459729c6220389a8.svg",
+    "static/media/logo_hanwha.png": "/lgCns01/static/media/logo_hanwha.e786ff3e6cb5b2f65be4.png",
     "static/media/service_icon01.svg": "/lgCns01/static/media/service_icon01.3cc03f5f0cb54dc97de29595c2a16f6e.svg",
     "static/media/service_icon04.svg": "/lgCns01/static/media/service_icon04.5455ab8e7615e570029bcdb5f7eaa1d7.svg",
-    "static/media/service_img04.svg": "/lgCns01/static/media/service_img04.684cd08874b215f5ef6a03d968eebb74.svg",
     "static/media/service_icon03.svg": "/lgCns01/static/media/service_icon03.b8e72e073de2cc54bfca62d8d24544cf.svg",
-    "static/media/service_img03.svg": "/lgCns01/static/media/service_img03.571e42ad7c43189de0478a0c31c2d4b2.svg",
     "static/media/service_icon02.svg": "/lgCns01/static/media/service_icon02.a26b6b7c2e15d90342a0c97ed3be685b.svg",
-    "static/media/service_img05.svg": "/lgCns01/static/media/service_img05.92c8d382a52fb5c6689847a59313f99a.svg",
-    "static/media/service_img01.svg": "/lgCns01/static/media/service_img01.5284d2cbf82c3f5ddc7a75e5a6d8dea5.svg",
     "static/media/arrow_flow.svg": "/lgCns01/static/media/arrow_flow.bace854c8e01c04b31598611c5c582ac.svg",
     "static/media/arrow_flow_mo.svg": "/lgCns01/static/media/arrow_flow_mo.17ec49e02513f8ff9b04f934f1ec0334.svg",
     "index.html": "/lgCns01/index.html",
@@ -44,11 +40,11 @@
     "static/media/report_download.svg": "/lgCns01/static/media/report_download.de902b1d912884f46c76a810f0d4688e.svg",
     "static/media/link_arrow.svg": "/lgCns01/static/media/link_arrow.6e6363033d9025b9241ea30b74681e75.svg",
     "static/media/scrolling.svg": "/lgCns01/static/media/scrolling.1bcdc2519360021272e6f989cf62af3b.svg",
-    "main.610dfa01.css.map": "/lgCns01/static/css/main.610dfa01.css.map",
-    "main.fd4ee39b.js.map": "/lgCns01/static/js/main.fd4ee39b.js.map"
+    "main.07619d62.css.map": "/lgCns01/static/css/main.07619d62.css.map",
+    "main.a9ff606e.js.map": "/lgCns01/static/js/main.a9ff606e.js.map"
   },
   "entrypoints": [
-    "static/css/main.610dfa01.css",
-    "static/js/main.fd4ee39b.js"
+    "static/css/main.07619d62.css",
+    "static/js/main.a9ff606e.js"
   ]
 }
