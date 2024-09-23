@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lgCns01/static/css/main.1011beac.css",
+    "main.css": "/lgCns01/static/css/main.142df1a7.css",
     "main.js": "/lgCns01/static/js/main.b61b896b.js",
     "static/media/lgcns_service_web_english.mp4": "/lgCns01/static/media/lgcns_service_web_english.6bf370fa59dc98c7977b.mp4",
     "static/media/lgcns_service_offering.mp4": "/lgCns01/static/media/lgcns_service_offering.7461b7028dfbdc0bf33e.mp4",
@@ -51,11 +51,11 @@
     "static/media/report_download.svg": "/lgCns01/static/media/report_download.de902b1d912884f46c76a810f0d4688e.svg",
     "static/media/link_arrow.svg": "/lgCns01/static/media/link_arrow.6e6363033d9025b9241ea30b74681e75.svg",
     "static/media/scrolling.svg": "/lgCns01/static/media/scrolling.1bcdc2519360021272e6f989cf62af3b.svg",
-    "main.1011beac.css.map": "/lgCns01/static/css/main.1011beac.css.map",
+    "main.142df1a7.css.map": "/lgCns01/static/css/main.142df1a7.css.map",
     "main.b61b896b.js.map": "/lgCns01/static/js/main.b61b896b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1011beac.css",
+    "static/css/main.142df1a7.css",
     "static/js/main.b61b896b.js"
   ]
 }
