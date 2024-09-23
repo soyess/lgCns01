@@ -1,7 +1,13 @@
 {
   "files": {
-    "main.css": "/lgCns01/static/css/main.3ee562d7.css",
-    "main.js": "/lgCns01/static/js/main.d0279b14.js",
+    "main.css": "/lgCns01/static/css/main.1011beac.css",
+    "main.js": "/lgCns01/static/js/main.b61b896b.js",
+    "static/media/lgcns_service_web_english.mp4": "/lgCns01/static/media/lgcns_service_web_english.6bf370fa59dc98c7977b.mp4",
+    "static/media/lgcns_service_offering.mp4": "/lgCns01/static/media/lgcns_service_offering.7461b7028dfbdc0bf33e.mp4",
+    "static/media/LGCNS_Cloud_Main_R22_240812_EN_LQ.mp4": "/lgCns01/static/media/LGCNS_Cloud_Main_R22_240812_EN_LQ.adb86852dd7916e16f89.mp4",
+    "static/media/LGCNS_Cloud_Main_R22_240812_KR_LQ.mp4": "/lgCns01/static/media/LGCNS_Cloud_Main_R22_240812_KR_LQ.684048ea1b3ee37ce72d.mp4",
+    "static/media/lgcns_service_mo_english.mp4": "/lgCns01/static/media/lgcns_service_mo_english.7065fbcb97631cb59437.mp4",
+    "static/media/lgcns_service_offering_mo.mp4": "/lgCns01/static/media/lgcns_service_offering_mo.2bf8464a3973693b2793.mp4",
     "static/media/main_visual.png": "/lgCns01/static/media/main_visual.b84f94c232d1d5fefc45.png",
     "static/media/scale.png": "/lgCns01/static/media/scale.ce6bdb124c631ac3f8d6.png",
     "static/media/about_scale.png": "/lgCns01/static/media/about_scale.509c0bd41eff073fd698.png",
@@ -12,6 +18,11 @@
     "static/media/about_scale_mo.png": "/lgCns01/static/media/about_scale_mo.3720c90eadd59d8213fa.png",
     "static/media/about_visual.png": "/lgCns01/static/media/about_visual.aead1201b3277db9b7fe.png",
     "static/media/hanwha_img01.png": "/lgCns01/static/media/hanwha_img01.f53fca8e2781f3cac205.png",
+    "static/media/newsDetailsBackground.png": "/lgCns01/static/media/newsDetailsBackground.7a3cd67c04496d1f421f.png",
+    "static/media/newsEvtBackground.png": "/lgCns01/static/media/newsEvtBackground.7a3cd67c04496d1f421f.png",
+    "static/media/caseBackground.png": "/lgCns01/static/media/caseBackground.05c0e19f4b27df28467b.png",
+    "static/media/caseDetailsBackground.png": "/lgCns01/static/media/caseDetailsBackground.05c0e19f4b27df28467b.png",
+    "static/media/enCaseBackground.png": "/lgCns01/static/media/enCaseBackground.05c0e19f4b27df28467b.png",
     "static/media/contact_banner_mo.png": "/lgCns01/static/media/contact_banner_mo.87fe88bd02c7174810c2.png",
     "static/media/contact_mo.png": "/lgCns01/static/media/contact_mo.87fe88bd02c7174810c2.png",
     "static/media/background.png": "/lgCns01/static/media/background.facaf8cdd72faaa73dff.png",
@@ -19,6 +30,7 @@
     "static/media/map_mo.png": "/lgCns01/static/media/map_mo.4bc2516b475d59d2d42d.png",
     "static/media/koreanair_img01.png": "/lgCns01/static/media/koreanair_img01.be7d66e9666eeea8ae64.png",
     "static/media/imageDetails02.png": "/lgCns01/static/media/imageDetails02.9dff438d201838703494.png",
+    "static/media/techBackground.png": "/lgCns01/static/media/techBackground.70ffd9ef72821d7d4d05.png",
     "static/media/imageDetails01.png": "/lgCns01/static/media/imageDetails01.c6ae01cb1b1d2d3c0261.png",
     "static/media/imageDetails04.png": "/lgCns01/static/media/imageDetails04.fcef56b3208507460e58.png",
     "static/media/brand.svg": "/lgCns01/static/media/brand.c0f292e4854670b3e3f31ce6c4c20530.svg",
@@ -39,11 +51,11 @@
     "static/media/report_download.svg": "/lgCns01/static/media/report_download.de902b1d912884f46c76a810f0d4688e.svg",
     "static/media/link_arrow.svg": "/lgCns01/static/media/link_arrow.6e6363033d9025b9241ea30b74681e75.svg",
     "static/media/scrolling.svg": "/lgCns01/static/media/scrolling.1bcdc2519360021272e6f989cf62af3b.svg",
-    "main.3ee562d7.css.map": "/lgCns01/static/css/main.3ee562d7.css.map",
-    "main.d0279b14.js.map": "/lgCns01/static/js/main.d0279b14.js.map"
+    "main.1011beac.css.map": "/lgCns01/static/css/main.1011beac.css.map",
+    "main.b61b896b.js.map": "/lgCns01/static/js/main.b61b896b.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ee562d7.css",
-    "static/js/main.d0279b14.js"
+    "static/css/main.1011beac.css",
+    "static/js/main.b61b896b.js"
   ]
 }
